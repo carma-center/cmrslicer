@@ -3,12 +3,11 @@
     
     <table id="ttw_ftable"><tbody><tr>
           <td id="ttw_ftdl"><div id="site-info">
-              © 2012 - Comprehensive Arrhythmia Research and Management Center, University of Utah<a href="https://www.corview.org/" title="" rel="home"></a>
+              © 2012 - <a href="http://healthsciences.utah.edu/carma/" title="" rel="home">Comprehensive Arrhythmia Research and Management Center, University of Utah</a>
           </div></td>
           <td id="ttw_ftdr">
             <div id="site-generator">
-              <a href="http://BROKEN_LINK/" title="Slicer CMR Toolkit" rel="generator">
-                Slicer CMR Toolkit</a>
+              Slicer CMR Toolkit
             </div>
           </td>
         </tr>

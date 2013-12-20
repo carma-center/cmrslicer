@@ -6,11 +6,11 @@
     <br><br>
     
     <li id="text-1" class="widget-container widget_text">
-      <h3 class="widget-title">Download</h3>
+      <h3 class="widget-title">Get the Extension</h3>
       <div class="textwidget"><ul>
-          <li><a href="ADD_THIS_LINK">Download the Slicer CMR Toolkit</a></li>
-          <li><a href="http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/CardiacMRIToolkit">Full
-              Documentation (Slicer Wiki)</a>
+          <li><div style="font-weight:bold">CMR Toolkit is installed through the Slicer 4 Extensions Manager</div></li>
+          <li><a href="https://github.com/carma-center/carma_slicer_extension">Source Code (github)</a></li>
+          <li><a href="http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/CardiacMRIToolkit">Full Documentation (Slicer Wiki)</a></li>
         </ul>
       </div>
     </li>
